@@ -1,0 +1,40 @@
+_repo: Fifty-Years-a-Hunter-and-Trappertrapping._34063
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34063-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Woodcock, E. N. (Eldred Nathaniel)
+    alias: Woodcock, Eldred Nathaniel
+    birthdate: 1846
+    deathdate: 1917
+    gutenberg_agent_id: '36726'
+    url: http://www.gutenberg.org/2009/agents/36726
+  editor:
+    agent_name: Harding, A. R. (Arthur Robert)
+    alias: Harding, Arthur Robert
+    birthdate: 1871
+    deathdate: 1930
+    gutenberg_agent_id: '36678'
+    url: http://www.gutenberg.org/2009/agents/36678
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Robert_Harding
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Trapping
+gutenberg_issued: '2010-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trapping'
+- !lcc 'SK'
+- !lcsh 'Hunting'
+title: "Fifty Years a Hunter and Trapper\r\nAutobiography, experiences and observations\
+  \ of Eldred Nathaniel Woodcock during his fifty years of hunting and trapping."
+url: http://www.gutenberg.org/ebooks/34063
